@@ -31,4 +31,4 @@ Configured policies requiring users to register for MFA during sign-in, helping 
 ---
 
 ## About This Repo
-These labs are part of my transition into Identity 
+These labs are part of my transition into Identity and Access Management (IAM)
