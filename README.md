@@ -6,7 +6,7 @@ This repo tracks my hands-on progress through SC-300 labs as I focus on building
 
 ## 🔐 Authentication & Access Control Labs
 
-### 🔐 Lab 08 – Enable Multi-Factor Authentication (MFA)
+### 🔐 Lab – Enable Multi-Factor Authentication (MFA)
 **What I did:**  
 Set up MFA for users in Microsoft Entra to improve identity security with an extra layer of protection.
 
@@ -14,7 +14,7 @@ Set up MFA for users in Microsoft Entra to improve identity security with an ext
 
 ---
 
-### 🔐 Lab 15 – Configure MFA Registration Policy  
+### 🔐 Lab – Configure MFA Registration Policy  
 **What I did:**  
 Configured policies requiring users to register for MFA during sign-in, helping enforce secure authentication practices across the organization.
 
