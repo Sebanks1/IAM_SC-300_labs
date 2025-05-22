@@ -24,9 +24,9 @@ Configured policies requiring users to register for MFA during sign-in, helping 
 
 ## 🔄 Labs in Progress
 
-- Lab 09 – Enable Self-Service Password Reset  
-- Lab 13 – Implement and test a Conditional Access Policy  
-- Lab 14 – Enable sign-in and user risk policies  
+- Lab – Enable Self-Service Password Reset  
+- Lab – Implement and test a Conditional Access Policy  
+- Lab – Enable sign-in and user risk policies  
 
 ---
 
