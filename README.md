@@ -22,9 +22,16 @@ Configured policies requiring users to register for MFA during sign-in, helping 
 
 ---
 
-## 🔄 Labs in Progress
+🔐 Lab – Configure Self-Service Password Reset (SSPR)
+**What I did:**
+Enabled and configured Self-Service Password Reset (SSPR) in Microsoft Entra ID, assigned it to a test group, and validated the end-user password reset process to support secure and efficient account recovery.
 
-- Lab – Enable Self-Service Password Reset  
+📺 [Watch the walkthrough](https://youtu.be/fc62VihS1cQ?si=HM731E1QVgLy1DdC)
+
+---
+
+## 🔄 Labs in Progress
+  
 - Lab – Implement and test a Conditional Access Policy  
 - Lab – Enable sign-in and user risk policies  
 
