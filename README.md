@@ -36,9 +36,11 @@ I configured and enabled user risk and sign-in risk policies in Microsoft Entra 
 📺 [Watch the walkthrough](https://www.youtube.com/watch?v=YeEZblm48j0)
 
 ---
-## 🔄 Labs in Progress
-  
-- Lab – Implement and test a Conditional Access Policy  
+### 🔐 Implement and Test a Conditional Access Policy 
+**What I did:**
+I created and tested a Conditional Access policy in Azure Entra ID that blocked user access to a specific application based on defined conditions.
+
+📺 [Watch the walkthrough](https://www.youtube.com/watch?v=VKBDkiKeWb4&list=PLIjdhN2pMMAlr79TFYLziucDtzyEABUxL&index=6)
 
 ---
 
