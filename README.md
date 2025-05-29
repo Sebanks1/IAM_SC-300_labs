@@ -29,11 +29,16 @@ Enabled and configured Self-Service Password Reset (SSPR) in Microsoft Entra ID,
 📺 [Watch the walkthrough](https://youtu.be/fc62VihS1cQ?si=HM731E1QVgLy1DdC)
 
 ---
+### 🔐 Enabled user risk and sign-in risk policies  
+**What I did:**
+I configured and enabled user risk and sign-in risk policies in Microsoft Entra to automatically trigger password resets and MFA based on detected identity threats.
 
+📺 [Watch the walkthrough](https://www.youtube.com/watch?v=YeEZblm48j0)
+
+---
 ## 🔄 Labs in Progress
   
 - Lab – Implement and test a Conditional Access Policy  
-- Lab – Enable sign-in and user risk policies  
 
 ---
 
