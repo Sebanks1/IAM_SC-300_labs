@@ -6,7 +6,7 @@ This repo tracks my hands-on progress through SC-300 labs as I focus on building
 
 ## 🔐 Authentication & Access Control Labs
 
-### 🔐 Lab – Enable Multi-Factor Authentication (MFA)
+### 💻 Lab – Enable Multi-Factor Authentication (MFA)
 **What I did:**  
 Set up MFA for users in Microsoft Entra to improve identity security with an extra layer of protection.
 
@@ -14,7 +14,7 @@ Set up MFA for users in Microsoft Entra to improve identity security with an ext
 
 ---
 
-### 🔐 Lab – Configure MFA Registration Policy  
+### 💻 Lab – Configure MFA Registration Policy  
 **What I did:**  
 Configured policies requiring users to register for MFA during sign-in, helping enforce secure authentication practices across the organization.
 
@@ -22,25 +22,34 @@ Configured policies requiring users to register for MFA during sign-in, helping 
 
 ---
 
-### 🔐 Enabled and configured Self-Service Password Reset (SSPR)  
+### 💻 Enabled and configured Self-Service Password Reset (SSPR)  
 **What I did:**
 Enabled and configured Self-Service Password Reset (SSPR) in Microsoft Entra ID, assigned it to a test group, and validated the end-user password reset process to support secure and efficient account recovery.
 
 📺 [Watch the walkthrough](https://youtu.be/fc62VihS1cQ?si=HM731E1QVgLy1DdC)
 
 ---
-### 🔐 Enabled user risk and sign-in risk policies  
+### 💻 Enabled user risk and sign-in risk policies  
 **What I did:**
 I configured and enabled user risk and sign-in risk policies in Microsoft Entra to automatically trigger password resets and MFA based on detected identity threats.
 
 📺 [Watch the walkthrough](https://www.youtube.com/watch?v=YeEZblm48j0)
 
 ---
-### 🔐 Implement and Test a Conditional Access Policy 
+### 💻 Implement and Test a Conditional Access Policy 
 **What I did:**
 I created and tested a Conditional Access policy in Azure Entra ID that blocked user access to a specific application based on defined conditions.
 
 📺 [Watch the walkthrough](https://www.youtube.com/watch?v=VKBDkiKeWb4&list=PLIjdhN2pMMAlr79TFYLziucDtzyEABUxL&index=6)
+
+---
+
+## 🛡️ Priviledge Access Management
+**Upcoming Labs**
+
+- Assign Azure resource roles in Privileged Identity Management
+  
+- Configure Privileged Identity Management for Microsoft Entra roles 
 
 ---
 
