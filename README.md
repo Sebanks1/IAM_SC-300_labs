@@ -1,4 +1,4 @@
-# SC-300 Identity and Access Administrator Labs
+# 🛡️SC-300 Identity and Access Administrator Labs
 
 This repo tracks my hands-on progress through SC-300 labs as I focus on building skills in Identity and Access Management (IAM) with Microsoft Entra (formerly Azure AD). Each lab includes a summary and video walkthrough.
 
@@ -44,12 +44,62 @@ I created and tested a Conditional Access policy in Azure Entra ID that blocked 
 
 ---
 
-## 🛡️ Priviledge Access Management
-**Upcoming Labs**
+## 🔐 Priviledge Access Management
 
-- Assign Azure resource roles in Privileged Identity Management
+### 💻 Assign Azure resource roles in Privileged Identity Management (PIM)
+**What I did:**
+Assigned Azure resource roles using Privileged Identity Management (PIM), set up eligible assignments, configured just-in-time (JIT) access with MFA, and tested role activation to enforce least privilege across Azure resources.
+
+📺 [Watch the walkthrough](https://youtu.be/ha36llBRQo8?si=-cRRjbSEJSN7HXZK)
+
+---
   
-- Configure Privileged Identity Management for Microsoft Entra roles 
+### 💻 Configure Privileged Identity Management (PIM) for Microsoft Entra roles
+**What I did:**
+Configured Privileged Identity Management (PIM) for Microsoft Entra roles by setting up eligible role assignments, enforcing MFA, adding approval workflows, and defining activation settings to limit standing access and support least privilege.
+
+📺 [Watch the walkthrough](https://youtu.be/ES3CUlvG8Kc?si=aLR6cHGFfgWFsnHT)
+
+---
+
+## 🔐 Federation & App Access (SAML_OpenID_OAuth 2.0)
+**Upcoming Labs** 👀
+- Add a federated identity provider
+- Grant tenant-wide admin consent to an application
+- Implement access management for apps
+- Register an application
+
+---
+
+## 🔐 Identity Governance & Access Reviews
+**Upcoming Labs** 👀
+- Add terms of use and acceptance reporting
+- Create and manage a catalog of resources in Microsoft Entra entitlement management
+- Creating Access Reviews for Internal and External Users
+- Manage the lifecycle of external users in Microsoft Entra Identity Governance settings 
+
+---
+
+## 🔐 Identity Governance & Access Reviews
+**Upcoming Labs** 👀
+- Microsoft Sentinel Kusto Queries for Microsoft Entra data sources
+- Monitor and managed security posture with Identity Secure Score
+
+---
+
+## 🔐 User and Group Management
+**Upcoming Labs** 👀
+- Manage Users Accounts
+- Assigning licenses using group membership
+- Working with tenant properties
+
+---
+
+## 🌐 External Collaboration
+**Upcoming Labs** 👀
+- Add Guest Users to the Directory
+- Invite External Users
+- Configure External Collaboration Settings
 
 ---
 
