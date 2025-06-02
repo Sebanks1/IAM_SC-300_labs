@@ -63,11 +63,17 @@ Configured Privileged Identity Management (PIM) for Microsoft Entra roles by set
 ---
 
 ## 🔐 Federation & App Access (SAML_OpenID_OAuth 2.0)
-**Upcoming Labs** 👀
-- Add a federated identity provider
+
+### 💻 Add a Federated Identity Provider
+**What I did:**
+Configured Azure AD to add a federated identity provider by connecting an external service (like Google), setting up Azure AD B2C settings, and enabling conditional access for external users.
+
+📺 [Watch the walkthrough](https://youtu.be/xF25Zrieqdc?si=RfxPe9LaXUEbiHfM)
+
+---
+- Register an application
 - Grant tenant-wide admin consent to an application
 - Implement access management for apps
-- Register an application
 
 ---
 
