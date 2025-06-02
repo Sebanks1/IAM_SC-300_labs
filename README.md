@@ -71,18 +71,43 @@ Configured Azure AD to add a federated identity provider by connecting an extern
 📺 [Watch the walkthrough](https://youtu.be/xF25Zrieqdc?si=RfxPe9LaXUEbiHfM)
 
 ---
-- Register an application
-- Grant tenant-wide admin consent to an application
-- Implement access management for apps
+### 💻 Register an application
+**What I did:**
+Registered an application in Azure AD (Entra ID) by specifying redirect URIs, selecting supported account types, and capturing the application and directory IDs to enable secure authentication and API access.
+
+📺 [Watch the walkthrough](https://youtu.be/SUfG0xKWa9A?si=CLO81-6qvVD50O50)
+
+---
+
+### 💻 Grant tenant-wide admin consent to an application
+**What I did:**
+Granted tenant-wide admin consent to an application in Azure AD (Entra ID) by reviewing requested permissions, approving consent on behalf of all users, and verifying that the app could access organizational data without prompting individual users.
+
+📺 [Watch the walkthrough](https://youtu.be/h12WoZ_TXH8?si=Ob1EUIs5qfpDb_s8)
+
+---
+
+### 💻 Implement access management for apps
+**What I did:**
+Implemented access management for apps in Azure AD (Entra ID) by assigning users and groups to applications, configuring app roles, and applying user consent and access review settings to control and monitor application access.
+
+📺 [Watch the walkthrough](https://youtu.be/V3GJiZfySD0?si=EtCbxtvvfM47ImeO)
 
 ---
 
 ## 🔐 Identity Governance & Access Reviews
-**Upcoming Labs** 👀
+
+### 💻 Create and manage a catalog of resources in Microsoft Entra entitlement management
+**What I did:**
+Created and managed a catalog of resources in Microsoft Entra Entitlement Management by setting up access packages, defining resource roles, and organizing groups, apps, and Saleforce sites into a catalog to support automated access requests and governance.
+
+📺 [Watch the walkthrough](https://youtu.be/V3GJiZfySD0?si=EtCbxtvvfM47ImeO)
+
+---
+
 - Add terms of use and acceptance reporting
-- Create and manage a catalog of resources in Microsoft Entra entitlement management
-- Creating Access Reviews for Internal and External Users
 - Manage the lifecycle of external users in Microsoft Entra Identity Governance settings 
+- Creating Access Reviews for Internal and External Users
 
 ---
 
