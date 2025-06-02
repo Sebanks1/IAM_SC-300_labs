@@ -101,7 +101,7 @@ Implemented access management for apps in Azure AD (Entra ID) by assigning users
 **What I did:**
 Created and managed a catalog of resources in Microsoft Entra Entitlement Management by setting up access packages, defining resource roles, and organizing groups, apps, and Saleforce sites into a catalog to support automated access requests and governance.
 
-📺 [Watch the walkthrough](https://youtu.be/V3GJiZfySD0?si=EtCbxtvvfM47ImeO)
+📺 [Watch the walkthrough](https://youtu.be/XY-syeBJZJA?si=YK_EquH_GIEi2wmO)
 
 ---
 
