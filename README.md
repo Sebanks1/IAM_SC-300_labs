@@ -148,10 +148,10 @@ Navigated to Identity Secure Score in the Entra admin portal, reviewed the curre
 ---
 
 ## 🔐 User and Group Management
-**Upcoming Labs** 👀
+
 - Manage Users Accounts
-- Assigning licenses using group membership
 - Working with tenant properties
+- Assigning licenses using group membership
 
 ---
 
