@@ -105,7 +105,12 @@ Created and managed a catalog of resources in Microsoft Entra Entitlement Manage
 
 ---
 
-- Add terms of use and acceptance reporting
+### 💻 Add Terms of Use and Enable Acceptance Reporting  
+**What I did:**
+Added a Terms of Use policy in Microsoft Entra, assigned it to specific users, and enabled acceptance reporting to track and audit user acknowledgments for compliance.
+
+📺 [Watch the walkthrough](https://youtu.be/5qSrbLW8z1A?si=Ruehr1hEsLoXl6BK)
+
 - Manage the lifecycle of external users in Microsoft Entra Identity Governance settings 
 - Creating Access Reviews for Internal and External Users
 
