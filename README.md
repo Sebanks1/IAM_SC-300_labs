@@ -111,15 +111,39 @@ Added a Terms of Use policy in Microsoft Entra, assigned it to specific users, a
 
 📺 [Watch the walkthrough](https://youtu.be/5qSrbLW8z1A?si=Ruehr1hEsLoXl6BK)
 
-- Manage the lifecycle of external users in Microsoft Entra Identity Governance settings 
-- Creating Access Reviews for Internal and External Users
+---
+
+### 💻 Manage the lifecycle of external users in Microsoft Entra Identity Governance settings 
+**What I did:**
+Managed the lifecycle of external users in Microsoft Entra Identity Governance by configuring access packages, setting expiration policies, and enabling automatic access reviews to control and audit guest user access over time.
+
+📺 [Watch the walkthrough](https://youtu.be/BbLuwopQTFw?si=JFdaqL_SSkBQeoiA)
 
 ---
 
-## 🔐 Identity Governance & Access Reviews
-**Upcoming Labs** 👀
-- Microsoft Sentinel Kusto Queries for Microsoft Entra data sources
-- Monitor and managed security posture with Identity Secure Score
+### 💻 Creating Access Reviews for Internal and External Users 
+**What I did:**
+Created access reviews in Microsoft Entra for both internal and external users to automate periodic access checks, enforce least privilege, and support compliance with identity governance policies.
+
+📺 [Watch the walkthrough](https://youtu.be/aloThE5Z9bI?si=BPEs3qz79vVmNk6l)
+
+---
+
+## 🔐 Monitoring and Reporting
+
+### 💻 Microsoft Sentinel Kusto Queries for Microsoft Entra data sources
+**What I did:**
+Developed and executed Kusto Query Language (KQL) queries in Microsoft Sentinel to analyze Microsoft Entra identity logs, enabling detection of suspicious activities and improved security monitoring.
+
+📺 [Watch the walkthrough](https://youtu.be/WjBBJBS-7wc?si=PN3O0KUBWj2-LQmJ)
+
+---
+
+### 💻 Monitor and managed security posture with Identity Secure Score
+**What I did:**
+Navigated to Identity Secure Score in the Entra admin portal, reviewed the current score and historical trends, identified improvement recommendations, and prioritized changes to enhance overall identity security.
+
+📺 [Watch the walkthrough](https://youtu.be/KO5YCiXYUHk?si=YVqTe4SWhjv7O0HU)
 
 ---
 
