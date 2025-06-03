@@ -1,6 +1,6 @@
 # 🛡️SC-300 Identity and Access Administrator Labs
 
-This repo tracks my hands-on progress through SC-300 labs as I focus on building skills in Identity and Access Management (IAM) with Microsoft Entra (formerly Azure AD). Each lab includes a summary and video walkthrough.
+This repo tracks my hands-on progress through SC-300 labs as I focus on building skills in Identity and Access Management (IAM) with Microsoft Entra (formerly Azure AD). Each lab includes a video walkthrough.
 
 ---
 
@@ -148,7 +148,7 @@ Navigated to Identity Secure Score in the Entra admin portal, reviewed the curre
 ---
 
 ## 🔐 User and Group Management
-
+**Upcoming Labs** 👀
 - Manage Users Accounts
 - Working with tenant properties
 - Assigning licenses using group membership
