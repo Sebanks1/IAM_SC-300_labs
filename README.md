@@ -148,18 +148,54 @@ Navigated to Identity Secure Score in the Entra admin portal, reviewed the curre
 ---
 
 ## 🔐 User and Group Management
-**Upcoming Labs** 👀
-- Manage Users Accounts
-- Working with tenant properties
-- Assigning licenses using group membership
+
+### 💻 Manage User Accounts
+**What I did:**
+Created user accounts in Microsoft Entra ID, assigning roles and licenses, resetting passwords, enabling and disabling accounts, and verifying changes through the Azure portal.
+
+📺 [Watch the walkthrough](https://youtu.be/Dd59xYJmKis?si=9K9PmKTyLO_qJKfC)
+
+---
+
+### 💻 Working with tenant properties
+**What I did:**
+Reviewed and updated tenant settings in Microsoft Entra ID, including branding, contact info, and privacy URLs, and verified changes in the Microsoft Entra Admin Center.
+
+📺 [Watch the walkthrough](https://youtu.be/DdfTyOKlTO4?si=FZrujh4pnroST2Cg)
+
+---
+
+### 💻 Assigning licenses using group membership
+**What I did:**
+Created a security group, configuring group-based licensing, added users to the group, and verified that licenses were automatically assigned through Microsoft Entra ID.
+
+📺 [Watch the walkthrough](https://youtu.be/VdlrKvIEMck)
 
 ---
 
 ## 🌐 External Collaboration
-**Upcoming Labs** 👀
-- Add Guest Users to the Directory
-- Invite External Users
-- Configure External Collaboration Settings
+
+### 💻 Add Guest Users to the Directory
+**What I did:**
+Created user accounts in Microsoft Entra ID, assigned roles and licenses, reset passwords, enabled and disabled accounts, and verified changes through the Azure portal.
+
+📺 [Watch the walkthrough](https://youtu.be/E7AwPUYb9CE)
+
+---
+
+### 💻 Invite External Users
+**What I did:**
+Invited external users to Microsoft Entra ID, configured user settings to support external collaboration, customized the invitation process, and verified that the invited users appeared in the directory with appropriate access.
+
+📺 [Watch the walkthrough](https://youtu.be/um5IOXjdFlc)
+
+---
+
+### 💻 Configure External Collaboration Settings
+**What I did:**
+Configured external collaboration settings in Microsoft Entra ID, updated guest user access policies, adjusted invitation settings, and verified the changes in the Entra Admin Center to control how external users interact with the directory.
+
+📺 [Watch the walkthrough](https://youtu.be/41hu8e4QE3w)
 
 ---
 
